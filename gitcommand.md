@@ -1,13 +1,4 @@
 ## git-tips
-> Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
-
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips)
-
-### __Tools:__
-
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
-
-P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
 <!-- @doxie.inject start toc -->
 <!-- Don’t remove or change the comment above – that can break automatic updates. -->
